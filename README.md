@@ -64,31 +64,6 @@ These questions are suitable for:
 
 **Experience Range:** 3–8 Years
 
----
-
-## Sample Questions
-
-### Q1. What is Microservices Architecture?
-
-Microservices architecture is an approach where applications are built as a collection of small, independent services that focus on specific business functions.
-
-### Q2. What is Service Discovery?
-
-Service Discovery enables microservices to dynamically locate and communicate with one another without using hardcoded URLs.
-
-### Q3. What is API Gateway?
-
-API Gateway acts as a single entry point to route requests, enforce security, perform logging, and manage traffic.
-
-### Q4. What is Saga Pattern?
-
-Saga Pattern manages distributed transactions using a sequence of local transactions and compensating actions.
-
-### Q5. What is Circuit Breaker Pattern?
-
-Circuit Breaker prevents repeated calls to a failing service and provides fallback responses to improve resilience.
-
----
 
 ## Prerequisites
 
@@ -150,29 +125,6 @@ Kubernetes
 - Senior Software Engineer
 - Technical Lead
 - Software Architect
-
----
-
-## Contributing
-
-Feel free to enhance the repository by:
-
-- Adding new interview questions
-- Improving examples
-- Including architecture diagrams
-- Adding hands-on coding challenges
-
----
-
-## Connect
-
-If you find this repository useful, consider:
-
-⭐ Starring the repository
-
-🍴 Forking the repository
-
-📢 Sharing it with fellow developers
 
 ---
 
