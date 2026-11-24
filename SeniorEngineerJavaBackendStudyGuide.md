@@ -1,5 +1,5 @@
 # Senior Java Engineer Interview Study Guide
-## (Based on 6-7 Years Experience: Java, Spring Boot, Microservices, Cloud, AI Integration)
+Experience: Java, Spring Boot, Microservices, Cloud, AI Integration)
 
 ---
 
